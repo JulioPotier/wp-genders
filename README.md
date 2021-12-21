@@ -15,7 +15,8 @@ Just use the __(), _e(), etc like usual, all is automated. To get a better fit, 
 
 ## How to add my custom replacement strings in my plugin
 You can use this snippet:
-<pre><?php
+<pre>
+<?php
 add_action( 'plugins_loaded', function() {
    if ( function_exists( 'add_gendered_translation' ) ) {
 	    add_gendered_translation( 'Hey my man or woman', // sentence to translate in your plugin with __() as usual
@@ -32,7 +33,8 @@ add_action( 'plugins_loaded', function() {
 }</pre>
 If you try to override an existing i18n, you'll need a higher priority, but remember that only the most prior i18n will be used.
 French demo to replace *"L’administrateur ou l’administratrice"* by *"le Président"* ou *"la Présidente"*.
-<pre><?php
+<pre>
+<?php
 add_action( 'init', function() {
 	add_gendered_translation( "[Ll][’']administrateur ou l[’']administratrice",
 			[

@@ -79,13 +79,12 @@ __g() will return the string and _ge() will print it.
 So, to test a translation, do this (French for demo):
 <pre>
 _ge( 'Ce site est géré par un administrateur ou une administratrice' );
-</pre>
-This will be changed regarding the admin gender setting (example: Male Plural):
-<pre>"Ce site est géré par des administrateurs."</pre>
+//"Ce site est géré par des administrateurs."</pre>
+
 If you want to force a gender:
-<pre><?php
+<pre>
 _ge( 'Ce site est géré par un administrateur ou une administratrice', 'F' );
-"Ce site est géré par une administratrice."</pre>
+// "Ce site est géré par une administratrice."</pre>
 
 
 ## What if my language do not need a specific gender because of its native grammar

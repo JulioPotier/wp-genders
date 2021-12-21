@@ -1,0 +1,44 @@
+{
+    "i18n": {
+        "fr_FR-aux": {
+            "NE": "aux personnes de l’administration",
+            "M": "à l’administrateur",
+            "F": "à l’administratrice",
+            "MS": "aux administrateurs",
+            "FS": "aux administratrices",
+            "NSP": "aux administrateurs ou administratrices"
+        },
+        "fr_FR-les": {
+            "NE": "les personnes de l’administration",
+            "M": "l’administrateur",
+            "F": "l’administratrice",
+            "MS": "un des administrateurs",
+            "FS": "une des administratrices",
+            "NSP": "les administrateurs ou administratrices"
+        },
+        "fr_FR-des": {
+            "NE": "une des personnes de l’administration",
+            "M": "un administrateur",
+            "F": "une administratrice",
+            "MS": "un des administrateurs",
+            "FS": "une des administratrices",
+            "NSP": "un des administrateurs ou une des administratrices"
+        },
+        "fr_FR-": {
+            "NE": "personne de l’administration",
+            "M": "administrateur",
+            "F": "administratrice",
+            "MS": "un des administrateurs",
+            "FS": "une des administratrices",
+            "NSP": "un des administrateurs ou une des administratrices"
+        }
+    },
+    "strings": {
+        "L[’']administrateur ou l[’']administratrice": "fr_FR-les",
+        "à l[’']administrateur ou à? ?l[’']administratrice": "fr_FR-aux",
+        "le?s? ?[’']?administrateurs?,? e?t?o?u? ?le?s? ?[’']?administratrices?": "fr_FR-les",
+        "de l[’']administrateur ou d?e? ?l[’']administratrice": "fr_FR-des",
+        "un administrateur ou u?n?e? ?administratrice": "fr_FR-des",
+        "administrateur, administratrice": "fr_FR-"
+    }
+}

@@ -1,0 +1,284 @@
+# Translators:
+# Julio Potier <contact@secupress.me>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Genders\n"
+"Report-Msgid-Bugs-To: contact@secupress.me/\n"
+"POT-Creation-Date: 2021-12-20 17:24+0100\n"
+"PO-Revision-Date: 2021-12-20 17:24+0100\n"
+"Last-Translator: Julio Potier <contact@secupress.me>\n"
+"Language-Team: French (France) <contact@secupress.me>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _x:1,2c;__;_e;_ex:1,2c;_n:1,2;_nx:1,2;esc_html__;"
+"esc_html_e;esc_attr__;esc_attr_e;_n_noop:1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: genders.php:27
+msgid "Admin Gender Setting"
+msgstr "Régler le genre de l’admin."
+
+#: genders.php:28
+msgid "Set Your Preferred Gender"
+msgstr "Votre genre préféré"
+
+#: genders.php:122
+#, php-format
+msgid "Neutral / Not Binary / Agender: \"%s\""
+msgstr "Neutre / Non-binaire / Agenre : \"%s\""
+
+#: genders.php:123
+#, php-format
+msgid "Man: \"%s\""
+msgstr "Homme : \"%s\""
+
+#: genders.php:124
+#, php-format
+msgid "Woman: \"%s\""
+msgstr "Femme : \"%s\""
+
+#: genders.php:146
+msgid "Not Specified (plural): \"Contact the administrators…\""
+msgstr ""
+"Non spécifié (pluriel) : \"Contactez les administrateurs ou administratrices…"
+"\""
+
+#: genders.php:147
+msgid "Neutral / Not Binary / Agender: \"Contact the administrator…\""
+msgstr ""
+"Neutre / Non-binaire / Agenre : \"Contactez les responsables de "
+"l’administration…\""
+
+#: genders.php:148
+msgid "Man: \"Contact the administrator…\""
+msgstr "Homme : \"Contactez l’administrateur…\""
+
+#: genders.php:149
+msgid "Woman: \"Contact the administrator…\""
+msgstr "Femme : \"Contactez l’administratrice…\""
+
+#: genders.php:150
+msgid "Men: \"Contact the administrators…\""
+msgstr "Hommes : \"Contactez les administrateurs…\""
+
+#: genders.php:151
+msgid "Women: \"Contact the administrators…\""
+msgstr "Femmes : \"Contactez les administratrices…\""
+
+#: genders.php:185
+msgid "Not Specified (plural): \"Administrators\""
+msgstr "Non spécifié (pluriel) : \": Administrateurs/administratrices\""
+
+#: genders.php:186
+msgid "Neutral / Not Binary / Agender: \"Administrators\""
+msgstr "Neutre / Non-binaire / Agenre : \"Administration\""
+
+#: genders.php:187
+msgid "Man: \"Administrator\""
+msgstr "Homme : \"Administrateur\""
+
+#: genders.php:188
+msgid "Woman: \"Administrator\""
+msgstr "Femme : \"Administratrice\""
+
+#: genders.php:189
+msgid "Men: \"Administrators\""
+msgstr "Hommes : \"Administrateurs\""
+
+#: genders.php:190
+msgid "Women: \"Administrators\""
+msgstr "Femmes : \"Administratrices\""
+
+#: genders.php:235
+msgctxt "NSP"
+msgid "Administrators"
+msgstr "Administrateurs et Administratrices"
+
+#: genders.php:236
+msgctxt "NE"
+msgid "Administrating"
+msgstr "Administration"
+
+#: genders.php:237
+msgctxt "M"
+msgid "Administrator"
+msgstr "Administrateur"
+
+#: genders.php:238
+msgctxt "F"
+msgid "Administrator"
+msgstr "Administratrice"
+
+#: genders.php:239
+msgctxt "MP"
+msgid "Administrators"
+msgstr "Administrateurs"
+
+#: genders.php:240
+msgctxt "FP"
+msgid "Administrators"
+msgstr "Administrateurs"
+
+#: genders.php:244
+msgctxt "NSP"
+msgid "Authors"
+msgstr "Auteurs et Autrices"
+
+#: genders.php:245
+msgctxt "NE"
+msgid "Writing"
+msgstr "Rédaction"
+
+#: genders.php:246
+msgctxt "M"
+msgid "Author"
+msgstr "Auteur"
+
+#: genders.php:247
+msgctxt "F"
+msgid "Author"
+msgstr "Autrice"
+
+#: genders.php:248
+msgctxt "MP"
+msgid "Authors"
+msgstr "Auteurs"
+
+#: genders.php:249
+msgctxt "FP"
+msgid "Authors"
+msgstr "Auteurs"
+
+#: genders.php:253
+msgctxt "NSP"
+msgid "Editors"
+msgstr "Éditeurs et Éditrices"
+
+#: genders.php:254
+msgctxt "NE"
+msgid "Editing"
+msgstr "Édition"
+
+#: genders.php:255
+msgctxt "M"
+msgid "Editor"
+msgstr "Éditeur"
+
+#: genders.php:256
+msgctxt "F"
+msgid "Editor"
+msgstr "Éditrice"
+
+#: genders.php:257
+msgctxt "MP"
+msgid "Editors"
+msgstr "Éditeurs"
+
+#: genders.php:258
+msgctxt "FP"
+msgid "Editors"
+msgstr "Éditeurs"
+
+#: genders.php:262
+msgctxt "NSP"
+msgid "Contributors"
+msgstr "Contributeurs et Contributrices"
+
+#: genders.php:263
+msgctxt "NE"
+msgid "Contributing"
+msgstr "Contribution"
+
+#: genders.php:264
+msgctxt "M"
+msgid "Contributor"
+msgstr "Contributeur"
+
+#: genders.php:265
+msgctxt "F"
+msgid "Contributor"
+msgstr "Contributrice"
+
+#: genders.php:266
+msgctxt "MP"
+msgid "Contributors"
+msgstr "Contributeurs"
+
+#: genders.php:267
+msgctxt "FP"
+msgid "Contributors"
+msgstr "Contributeurs"
+
+#: genders.php:271
+msgctxt "NSP"
+msgid "Subscribers"
+msgstr "Abonnés et Abonnées"
+
+#: genders.php:272
+msgctxt "NE"
+msgid "Subscripting"
+msgstr "Souscription"
+
+#: genders.php:273
+msgctxt "M"
+msgid "Subscriber"
+msgstr "Abonné"
+
+#: genders.php:274
+msgctxt "F"
+msgid "Subscriber"
+msgstr "Abonnée"
+
+#: genders.php:275
+msgctxt "MP"
+msgid "Subscribers"
+msgstr "Abonnés"
+
+#: genders.php:276
+msgctxt "FP"
+msgid "Subscribers"
+msgstr "Abonnés"
+
+#: genders.php:330
+msgid "Preferred gender"
+msgstr "Genre préféré"
+
+#: genders.php:333 genders.php:476
+#, php-format
+msgid "Not Specified: \"%s\""
+msgstr "Non spécifié : \"%s\""
+
+#: genders.php:333 genders.php:476
+msgctxt "copy/paste the one from \"User role\" context from your lang"
+msgid "Administrator"
+msgstr "Administrateur/administratrice"
+
+#: genders.php:338 genders.php:457 genders.php:481
+msgid "WordPress Native Translations."
+msgstr "Traductions natives de WordPress."
+
+#: genders.php:420
+msgid "Administrator(s) Gender(s)"
+msgstr "Genre du ou des responsables de l’administration"
+
+#: genders.php:432
+msgid "Role List Gender"
+msgstr "Genre de la liste des rôles"
+
+#: genders.php:452
+msgid "Not Specified: \"Contact the administrator…\""
+msgstr "Non spécifié : \"Contactez l’administrateur ou l’administratrice…\""
+
+#: genders.php:473
+msgid "How the roles should be displayed when not associated with a user"
+msgstr ""
+"Comment les rôles doivent apparaitre quand ils ne sont pas associés à un "
+"compte"

@@ -1,0 +1,33 @@
+{
+    "i18n": {
+        "fr_CA-": {
+            "NE": "personnes de l’administration",
+            "NSP": "administrateurs et administratrices",
+            "M": "administrateur",
+            "F": "administratrice",
+            "MS": "administrateurs",
+            "FS": "administratrices"
+        },
+        "fr_CA-upper": {
+            "NE": "Personnes de l’administration",
+            "FS": "Administrateurs et administratrices",
+            "M": "Administrateur",
+            "F": "Administratrice",
+            "MS": "Administrateurs",
+            "FS": "Administratrices"
+        },
+        "fr_CA-rsquo": {
+            "NE": "les personnes de l’administration",
+            "NSP": "les administrateurs et administratrices",
+            "M": "l’administrateur",
+            "F": "l’administratrice",
+            "MS": "les administrateurs",
+            "FS": "les administratrices"
+        }
+    },
+    "strings": {
+        "Bienvenue,? Administrateur": "fr_CA-upper",
+        "l&rsquo;administrateur": "fr_CA-rsquo",
+        "administrateur": "fr_CA-"
+    }
+}

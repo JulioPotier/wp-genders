@@ -1,0 +1,15 @@
+{
+    "i18n": {
+        "fr_BE-median": {
+            "NE": "les personnesde l’administration et personnes de l’édition",
+            "NSP": "les administrateurs, les administratrices, et personnes de l’édition",
+            "M": "l’administrateur et les responsables de l’édition",
+            "F": "l’administratrice et les responsables de l’édition",
+            "MS": "les administrateurs et responsbles de l’édition",
+            "FS": "les administratrices et responsables de l’édition"
+        },
+    },
+    "strings": {
+        "les administrateur·ices et les éditeur·ices.": "fr_BE-median",
+    }
+}

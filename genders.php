@@ -325,10 +325,6 @@ add_action( 'personal_options', 'field_user_gender_radio' );
  **/
 function field_user_gender_radio( WP_User $profileuser ): void {
 	$user_gender = get_user_gender( $profileuser->ID );
-	_ge( 'L’administrateur ou l’administratrice a été notifié.<br>' );
-	_ge( 'Oui, l’administrateur ou l’administratrice a été notifié.<br>' );
-	_ge( 'Un administrateur va vous répondre.<br>' );
-	_ge( 'Hey my man or woman!!!<br>', $user_gender );
 ?>
 <table class="form-table" role="presentation">
 	<tbody>
